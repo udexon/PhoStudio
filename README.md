@@ -1,12 +1,12 @@
 # PhoStudio
-PhoStudio --- A Poor Men's Blender
+PhoStudio --- A Poor Men's Video / Audio Editing Tool
 
 YouTube video demo:
 - https://youtu.be/GDjssMFEVjM
 
 Blender is very powerful video and audio editing tool, but perhaps too complex for beginners to pick up quickly.
 
-PhoStudio uses Phoscript to simplify Blender Python programming, by using commands in Reverse Polish Notations, such as: 
+Our long term plan: PhoStudio will use Phoscript to ___simplify Blender Python programming___, by using commands in Reverse Polish Notations, such as: 
 ```
 1 rec:
 w h x y crop:
