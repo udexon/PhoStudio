@@ -8,7 +8,7 @@ Blender is very powerful video and audio editing tool, but perhaps too complex f
 
 Our long term plan: 
 
-- PhoStudio will use Phoscript to ___simplify Blender Python programming___, by using commands in Reverse Polish Notations, such as: 
+- PhoStudio will use [Phoscript](https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md) to ___simplify Blender Python programming___, by using commands in Reverse Polish Notations, such as: 
 ```
 1 rec:
 w h x y crop:
