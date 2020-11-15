@@ -1,7 +1,8 @@
 # PhoStudio
 PhoStudio --- A Poor Men's Blender
 
-(Link to YouTube video ....)
+YouTube video demo:
+- https://youtu.be/GDjssMFEVjM
 
 Blender is very powerful video and audio editing tool, but perhaps too complex for beginners to pick up quickly.
 
