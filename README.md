@@ -1,5 +1,5 @@
 # PhoStudio
-PhoStudio --- A Poor Man's Video / Audio Editing Tool
+PhoStudio --- A Very Powerful Poor Man's Video / Audio Editing Tool
 
 YouTube video demo:
 - https://youtu.be/GDjssMFEVjM
